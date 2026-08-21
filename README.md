@@ -46,9 +46,16 @@
 
 ### 📊 Estatísticas
 <p align="center">
-  <!-- Cards no tema 'radical' (letras e barras em tons de rosa e amarelo) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ana0mrts&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana0mrts&layout=compact&theme=radical&hide_border=true" height="150" />
+  <!-- Card com Estatísticas Globais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ana0mrts&show_icons=true&title_color=FF1493&icon_color=FFD700&text_color=ffffff&bg_color=0f0f17&border_color=FF1493" height="165" />
+  
+  <!-- Card com as Linguagens mais utilizadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana0mrts&layout=compact&title_color=FF1493&text_color=ffffff&bg_color=0f0f17&border_color=FFD700" height="165" />
+</p>
+
+<p align="center">
+  <!-- Medidor de Fogo / Sequência de Commits (Streak) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ana0mrts&background=0f0f17&border=FF1493&stroke=FF1493&ring=FF1493&fire=FFD700&currStreakNum=FFD700&sideNums=ffffff&sideTitle=FF1493&dates=ffffff" width="95%" />
 </p>
 
 ---
