@@ -36,13 +36,19 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-FF1493?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-FFD700?style=for-the-badge&logo=powerbi&logoColor=black)
 
-#### ⚡ Web, Cloud & Security
-![Flask](https://img.shields.io/badge/Flask-181717?style=for-the-badge&logo=flask&logoColor=FF1493)
+#### ⚡ Computer Science Fundamentals & Web
+![C](https://img.shields.io/badge/C-FF1493?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-FFD700?style=for-the-badge&logo=cplusplus&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-FF1493?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-FF1493?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FFD700?style=for-the-badge&logo=css3&logoColor=black)
+
+#### 🛡️ Frameworks, Cloud & Security
+![Flask](https://img.shields.io/badge/Flask-181717?style=for-the-badge&logo=flask&logoColor=FF1493)
 ![AWS](https://img.shields.io/badge/AWS-FF1493?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-FFD700?style=for-the-badge&logo=googlecloud&logoColor=black)
 ![Wireshark/PCAP](https://img.shields.io/badge/Wireshark_PCAP-FF1493?style=for-the-badge&logo=wireshark&logoColor=white)
----
 
 ### 📊 Estatísticas do GitHub
 
