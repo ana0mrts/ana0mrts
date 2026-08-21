@@ -52,10 +52,9 @@
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ana0mrts&show_icons=true&theme=radical&hide_border=true&title_color=FF1493&icon_color=FFD700&text_color=ffffff&bg_color=0D1117" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana0mrts&layout=compact&theme=radical&hide_border=true&title_color=FF1493&text_color=ffffff&bg_color=0D1117" height="150" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ana0mrts&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+</div>
 ---
 
 ### 📌 Projetos em Destaque
