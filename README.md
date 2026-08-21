@@ -27,11 +27,21 @@
 ---
 
 ### 🧰 Tech Stack
-<p align="center">
-  <!-- Ícones com o tema 'synthwave' (fundo escuro com destaques em rosa e amarelo) -->
-  <img src="https://skillicons.dev/icons?i=py,postgres,mongodb,flask,html,css,js,aws,gcp,git,vscode&theme=synthwave&perline=6" />
-</p>
 
+#### 🌸 Data Analytics & Databases
+![Python](https://img.shields.io/badge/Python-FF1493?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-FFD700?style=for-the-badge&logo=pandas&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-FF1493?style=for-the-badge&logo=plotly&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-FF1493?style=for-the-badge&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-FFD700?style=for-the-badge&logo=powerbi&logoColor=black)
+
+#### ⚡ Web, Cloud & Security
+![Flask](https://img.shields.io/badge/Flask-181717?style=for-the-badge&logo=flask&logoColor=FF1493)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF1493?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-FFD700?style=for-the-badge&logo=googlecloud&logoColor=black)
+![Wireshark/PCAP](https://img.shields.io/badge/Wireshark_PCAP-FF1493?style=for-the-badge&logo=wireshark&logoColor=white)
 ---
 
 ### 📊 Estatísticas
