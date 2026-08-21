@@ -60,8 +60,6 @@
 
 ### 📌 Projetos em Destaque
 
-### 📌 Projetos em Destaque
-
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
 | 🚗 **[Acidentes PRF](https://github.com/ana0mrts/analisedadossinistrosprf)** | Análise estatística dos dados abertos de acidentes da PRF (2017–2025) | `Python` `Pandas` `Plotly` |
