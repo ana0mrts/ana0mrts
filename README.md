@@ -50,12 +50,17 @@
 ![GCP](https://img.shields.io/badge/GCP-FFD700?style=for-the-badge&logo=googlecloud&logoColor=black)
 ![Wireshark/PCAP](https://img.shields.io/badge/Wireshark_PCAP-FF1493?style=for-the-badge&logo=wireshark&logoColor=white)
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ana0mrts&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 </div>
----
+
+### 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/card-activity-graph?username=ana0mrts&theme=radical&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
+</div>
 
 ### 📌 Projetos em Destaque
 
