@@ -44,18 +44,19 @@
 ![Wireshark/PCAP](https://img.shields.io/badge/Wireshark_PCAP-FF1493?style=for-the-badge&logo=wireshark&logoColor=white)
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas do GitHub
+
 <p align="center">
-  <!-- Card com Estatísticas Globais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ana0mrts&show_icons=true&title_color=FF1493&icon_color=FFD700&text_color=ffffff&bg_color=0f0f17&border_color=FF1493" height="165" />
+  <!-- Status Geral do GitHub em Rosa Pink & Amarelo -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ana0mrts&show_icons=true&theme=radical&hide_border=true&title_color=FF1493&icon_color=FFD700&text_color=ffffff&bg_color=0D1117" height="165" />
   
-  <!-- Card com as Linguagens mais utilizadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana0mrts&layout=compact&title_color=FF1493&text_color=ffffff&bg_color=0f0f17&border_color=FFD700" height="165" />
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana0mrts&layout=compact&theme=radical&hide_border=true&title_color=FF1493&text_color=ffffff&bg_color=0D1117" height="165" />
 </p>
 
 <p align="center">
-  <!-- Medidor de Fogo / Sequência de Commits (Streak) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ana0mrts&background=0f0f17&border=FF1493&stroke=FF1493&ring=FF1493&fire=FFD700&currStreakNum=FFD700&sideNums=ffffff&sideTitle=FF1493&dates=ffffff" width="95%" />
+  <!-- Gráfico de Sequência / Streak em Rosa e Amarelo -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ana0mrts&theme=radical&background=0D1117&border=0D1117&stroke=FF1493&ring=FF1493&fire=FFD700&currStreakNum=FFD700&sideNums=ffffff&sideTitle=FF1493" width="95%" />
 </p>
 
 ---
