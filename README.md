@@ -47,24 +47,15 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <!-- Status Geral do GitHub em Rosa Pink & Amarelo -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ana0mrts&show_icons=true&theme=radical&hide_border=true&title_color=FF1493&icon_color=FFD700&text_color=ffffff&bg_color=0D1117" height="165" />
-  
-  <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana0mrts&layout=compact&theme=radical&hide_border=true&title_color=FF1493&text_color=ffffff&bg_color=0D1117" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ana0mrts&show_icons=true&theme=radical&hide_border=true&title_color=FF1493&icon_color=FFD700&text_color=ffffff&bg_color=0D1117" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana0mrts&layout=compact&theme=radical&hide_border=true&title_color=FF1493&text_color=ffffff&bg_color=0D1117" height="150" />
 </p>
-
-<p align="center">
-  <!-- Gráfico de Sequência / Streak em Rosa e Amarelo -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ana0mrts&theme=radical&background=0D1117&border=0D1117&stroke=FF1493&ring=FF1493&fire=FFD700&currStreakNum=FFD700&sideNums=ffffff&sideTitle=FF1493" width="95%" />
-</p>
-
 ---
 
 ### 📌 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| 🚗 **[Acidentes PRF](#)** | Análise estatística dos dados abertos da PRF (2017–2025) | `Python` `Pandas` `Plotly` |
-| 💰 **[Projeto Domus](#)** | Sistema de gestão e controle financeiro pessoal | `Flask` `MongoDB` `Chart.js` |
-| 🛡️ **[Análise PCAP](#)** | Inspeção de tráfego de rede e detecção de ataques | `Python` `Network Security` |
+| 🚗 **[Acidentes PRF](https://github.com/ana0mrts/analise-acidentes-prf)** | Análise estatística dos dados abertos da PRF (2017–2025) | `Python` `Pandas` `Plotly` |
+| 💰 **[Projeto Domus](https://github.com/ana0mrts/domus-gestao-financeira)** | Sistema de gestão e controle financeiro pessoal | `Flask` `MongoDB` `Chart.js` |
+| 🛡️ **[Análise PCAP](https://github.com/ana0mrts/analise-trafego-pcap)** | Inspeção de tráfego de rede e detecção de ataques | `Python` `Network Security` |
