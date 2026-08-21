@@ -60,8 +60,10 @@
 
 ### 📌 Projetos em Destaque
 
+### 📌 Projetos em Destaque
+
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| 🚗 **[Acidentes PRF](https://github.com/ana0mrts/analise-acidentes-prf)** | Análise estatística dos dados abertos da PRF (2017–2025) | `Python` `Pandas` `Plotly` |
-| 💰 **[Projeto Domus](https://github.com/ana0mrts/domus-gestao-financeira)** | Sistema de gestão e controle financeiro pessoal | `Flask` `MongoDB` `Chart.js` |
-| 🛡️ **[Análise PCAP](https://github.com/ana0mrts/analise-trafego-pcap)** | Inspeção de tráfego de rede e detecção de ataques | `Python` `Network Security` |
+| 🚗 **[Acidentes PRF](https://github.com/ana0mrts/analisedadossinistrosprf)** | Análise estatística dos dados abertos de acidentes da PRF (2017–2025) | `Python` `Pandas` `Plotly` |
+| 💰 **[Projeto Domus](https://github.com/ana0mrts/Domus)** | Sistema web de gestão e controle financeiro pessoal com dashboard interativo | `Flask` `MongoDB` `Chart.js` |
+| 🛡️ **[Análise PCAP](https://github.com/ana0mrts/analise-trafego-pcap)** | Inspeção forense de tráfego de rede e detecção de varreduras de portas e força bruta | `Python` `Network Security` |
