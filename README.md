@@ -20,35 +20,41 @@
 ---
 
 ### ✨ Sobre Mim
-- 🌸 **Foco:** Análise, tratamento e visualização de dados voltados para soluções eficientes.
-- ⚡ **Interesses:** Análise de Dados, Inteligência Artificial, Segurança da Informação e Cloud.
-- 🛠️ **Stack Principal:** Python (Pandas, Plotly), SQL, MongoDB, Power BI e Análise PCAP.
+- 🎓 **Quem sou:** Estudante de Ciência da Computação na UNISANTOS, apaixonada por transformar dados complexos em soluções claras e seguras.
+- 🎯 **Foco atual:** Desenvolvimento de projetos em Análise de Dados, visualização de métricas e práticas essenciais de Cibersegurança.
+- 🛠️ **Stack principal:** Python (Pandas, Plotly), SQL, MongoDB, Power BI e ferramentas de análise de tráfego de rede (PCAP).
 
 ---
 
 ### 🧰 Tech Stack
 
 #### 🌸 Data Analytics & Databases
-![Python](https://img.shields.io/badge/Python-FF1493?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-FFD700?style=for-the-badge&logo=pandas&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-FF1493?style=for-the-badge&logo=plotly&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-FF1493?style=for-the-badge&logo=mongodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-FFD700?style=for-the-badge&logo=powerbi&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/Python-FF1493?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-FFD700?style=for-the-badge&logo=pandas&logoColor=black" />
+  <img src="https://img.shields.io/badge/Plotly-FF1493?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-FF1493?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-FFD700?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
 #### ⚡ Computer Science Fundamentals & Web
-![C](https://img.shields.io/badge/C-FF1493?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-FFD700?style=for-the-badge&logo=cplusplus&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-FF1493?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-FF1493?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FFD700?style=for-the-badge&logo=css3&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/C-FF1493?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-FFD700?style=for-the-badge&logo=cplusplus&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-FF1493?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-FF1493?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-FFD700?style=for-the-badge&logo=css3&logoColor=black" />
+</p>
 
 #### 🛡️ Frameworks, Cloud & Security
-![Flask](https://img.shields.io/badge/Flask-181717?style=for-the-badge&logo=flask&logoColor=FF1493)
-![AWS](https://img.shields.io/badge/AWS-FF1493?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-FFD700?style=for-the-badge&logo=googlecloud&logoColor=black)
-![Wireshark/PCAP](https://img.shields.io/badge/Wireshark_PCAP-FF1493?style=for-the-badge&logo=wireshark&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Flask-181717?style=for-the-badge&logo=flask&logoColor=FF1493" />
+  <img src="https://img.shields.io/badge/AWS-FF1493?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-FFD700?style=for-the-badge&logo=googlecloud&logoColor=black" />
+  <img src="https://img.shields.io/badge/Wireshark_PCAP-FF1493?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
 
 ---
 
@@ -59,4 +65,4 @@
 | 🚗 **[Acidentes PRF](https://github.com/ana0mrts/analisedadossinistrosprf)** | Análise estatística dos dados abertos de acidentes da PRF (2017–2025) | `Python` `Pandas` `Plotly` |
 | 💰 **[Projeto Domus](https://github.com/ana0mrts/Domus)** | Sistema web de gestão e controle financeiro pessoal com dashboard interativo | `Flask` `MongoDB` `Chart.js` |
 | 🛡️ **[Análise PCAP](https://github.com/ana0mrts/analise-trafego-pcap)** | Inspeção forense de tráfego de rede e detecção de varreduras de portas e força bruta | `Python` `Network Security` |
-| **[POO em Python](https://github.com/ana0mrts/code-POO-Python)** | Implementação de conceitos avançados de POO, herança e persistência de dados | `Python` `POO` `Pickle` |
+| 📁 **[POO em Python](https://github.com/ana0mrts/code-POO-Python)** | Implementação de conceitos avançados de POO, herança e persistência de dados | `Python` `POO` `Pickle` |
