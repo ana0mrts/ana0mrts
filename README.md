@@ -57,4 +57,4 @@
 | 🚗 **[Acidentes PRF](https://github.com/ana0mrts/analisedadossinistrosprf)** | Análise estatística dos dados abertos de acidentes da PRF (2017–2025) | `Python` `Pandas` `Plotly` |
 | 💰 **[Projeto Domus](https://github.com/ana0mrts/Domus)** | Sistema web de gestão e controle financeiro pessoal com dashboard interativo | `Flask` `MongoDB` `Chart.js` |
 | 🛡️ **[Análise PCAP](https://github.com/ana0mrts/analise-trafego-pcap)** | Inspeção forense de tráfego de rede e detecção de varreduras de portas e força bruta | `Python` `Network Security` |
-| **[POO em Python](https://github.com/ana0mrts/code-POO-Python)** | Implementação de conceitos avançados de POO, herança e persistência de dados | `Python` `POO` `Pickle` |
+| **[POO-Python](https://github.com/ana0mrts/code-POO-Python)** | Implementação de conceitos avançados de POO, herança e persistência de dados | `Python` `POO` `Pickle` |
